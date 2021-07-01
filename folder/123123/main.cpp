@@ -15,10 +15,9 @@ void fibonacci(int n)
 
 int main()
 {
-    int n;
+    int n=5;
     
-    cout<<"Podaj ile chcesz wypisać wyrazów ciągu fibonacciego: ";
-    cin>>n;
+	cout<<"bedzie konflikt";
     
     fibonacci(n);
     
