@@ -15,10 +15,12 @@ void fibonacci(int n)
 
 int main()
 {
+
     int n=5;
     
 	cout<<"bedzie konflikt";
-    
+
+
     fibonacci(n);
     
     return 0;
