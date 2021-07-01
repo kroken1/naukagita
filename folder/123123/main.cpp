@@ -20,7 +20,6 @@ int main()
 
 	cout<<"bedzie konflikt";
 
-
     fibonacci(n);
 
     return 0;
